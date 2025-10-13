@@ -1,0 +1,1 @@
+docker rm -f gitea drone-server drone-runner registry nginx 2>/dev/null || true

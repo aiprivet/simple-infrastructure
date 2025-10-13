@@ -1,0 +1,6 @@
+gitea/data/*
+drone/data/*
+nginx/data/*
+nginx/certs/*
+auto-update.log
+.env
