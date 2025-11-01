@@ -4,3 +4,4 @@ nginx/data/*
 nginx/certs/*
 auto-update.log
 .env
+.vscode
